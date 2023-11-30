@@ -1,0 +1,23 @@
+
+img {
+    width: 500px;
+    margin-left: 470px;
+    border: 30px solid white;
+    border-radius: 20%;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.head1 {
+    margin-left: 600px;
+    font-family: bebas neue;
+    font-weight: 100;
+    font-size: 30px;
+}
+
+.head2 {
+    margin-left: 660px;
+    font-family: bebas neue;
+    font-weight: 100;
+    font-size: 30px;
+}
